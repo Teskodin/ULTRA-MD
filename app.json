@@ -21,7 +21,7 @@
     "DATABASE_URL": {
       "description": "your mongodb or database url",
       "required": false,
-      "value": ""
+      "value": "mongodb+srv://Teskodin:@Tesko1234@tesko.zea94.mongodb.net/?retryWrites=true&w=majority&appName=Tesko"
     },
     "MODE": {
       "description": "mode public or private",
