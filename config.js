@@ -19,12 +19,12 @@ for (let i = 0; i < ownerlist.length; i++) {
     global.owner.push([ownerlist[i], true]);
 }
 //
-global.botname = process.env.BOTNAME || 'Tesko';
+global.botname = process.env.BOTNAME || 'TeskoV1';
 global.botNumber = '2349128930328' //replace your bot number here
 
 global.mods = []
 global.prems = []
-global.allowed = ['923444844060', '923051391007']
+global.allowed = ['2349128930328']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
@@ -41,7 +41,7 @@ global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
 global.lolkeysapi = ['GataDios']
 
-global.canal = 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07'
+global.canal = 'null'
 
 
 global.APIs = {
@@ -74,14 +74,14 @@ global.APIKeys = {
 global.premium = 'true'
 global.packname = 'Tesko'
 global.author = 'Tesko'
-global.menuvid = 'https://i.imgur.com/2U2K9YA.mp4'
-global.igfg = ' Follow on Instagram\nhttps://www.instagram.com/global.techinfo'
-global.dygp = 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07'
-global.fgsc = 'https://github.com/GlobalTechInfo/ULTRA-MD'
-global.fgyt = 'https://youtube.com/@GlobalTechInfo'
-global.fgpyp = 'https://youtube.com/@GlobalTechInfo'
-global.fglog = 'https://i.ibb.co/G2dh9cB/qasim.jpg'
-global.thumb = fs.readFileSync('./assets/qasim.jpg')
+global.menuvid = 'null'
+global.igfg = 'null'
+global.dygp = 'null'
+global.fgsc = 'null'
+global.fgyt = 'null'
+global.fgpyp = 'null'
+global.fglog = 'null'
+global.thumb = fs.readFileSync('null')
 
 global.wait = '⏳'
 global.rwait = '⏳'
