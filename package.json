@@ -1,5 +1,5 @@
 {
-    "name": "Ultra",
+    "name": "Tesko",
     "version": "3.1.0",
     "description": "Advanced WhatsApp",
     "main": "index.js",
@@ -30,7 +30,7 @@
     ],
     "homepage": "https://github.com/GlobalTechInfo/ULTRA-MD",
     "author": {
-        "name": "GlobalTechInfo"
+        "name": "Tesko"
     },
     "repository": {
         "type": "git",
