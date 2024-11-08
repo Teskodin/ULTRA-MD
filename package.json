@@ -1,5 +1,5 @@
 {
-    "name": "Ultra",
+    "name": "TeskoV1",
     "version": "3.1.0",
     "description": "Advanced WhatsApp",
     "main": "index.js",
@@ -23,21 +23,21 @@
         "js-whatsapp",
         "whatsapp",
         "guru-bot",
-        "Global-bot-md",
+        "Tesko-bot-md",
         "multi-device",
         "MD",
-        "baileys-md"
+        "Tesko-md"
     ],
-    "homepage": "https://github.com/GlobalTechInfo/ULTRA-MD",
+    "homepage": "null",
     "author": {
-        "name": "GlobalTechInfo"
+        "name": "null"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/GlobalTechInfo/ULTRA-MD.git"
+        "url": "null"
     },
     "bugs": {
-        "url": "https://github.com/GlobalTechInfo/ULTRA-MD/issues"
+        "url": "null"
     },
     "license": "Apache License 2.0",
     "dependencies": {
